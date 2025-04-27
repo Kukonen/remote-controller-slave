@@ -1,0 +1,6 @@
+[submodule "Shared"]
+	path = Shared
+	url = https://github.com/Kukonen/remote-controller-shared.git
+[submodule "Core"]
+	path = Core
+	url = https://github.com/Kukonen/remote-controller-core.git
