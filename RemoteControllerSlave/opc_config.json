@@ -1,0 +1,10 @@
+{
+  "Endpoint": "opc.tcp://localhost:44818",
+  "ObjectName": "MyObject",
+  "Variables": [
+    "Temperature",
+    "Pressure"
+  ],
+  "MachineId": "0196daed-1f4a-78d1-8590-766d4440de6e",
+  "SignalRHubUrl": "http://localhost:5151/machinesHub"
+}
